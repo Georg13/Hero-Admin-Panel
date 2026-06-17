@@ -36,9 +36,9 @@ const HeroesList = () => {
 
 
     // Удаление персонажа по его id
-    const onDelete = useCallback((id) => {
+   const onDelete = useCallback((id) => {
         deleteHero(id);
-    }, []);
+    }, [deleteHero]);
 
     if (isLoading) {
         return <Spinner/>;

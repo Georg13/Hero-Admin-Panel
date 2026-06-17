@@ -7,22 +7,10 @@
       "element": "fire"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "id": "5e3751fe-e613-4e0d-9160-496a2f5fac10",
+      "name": "22",
+      "description": "33",
       "element": "water"
-    },
-    {
-      "id": "b72a7458-84ce-4866-b04e-fb17697cf809",
-      "name": "Мистер Хлебушек",
-      "description": "Колдует хлебные крошки",
-      "element": "earth"
-    },
-    {
-      "id": "571ea237-99ff-4b44-87b6-6a792f7e104a",
-      "name": "Шептун",
-      "description": "Меня ни что не остановит ",
-      "element": "wind"
     }
   ],
   "filters": [
