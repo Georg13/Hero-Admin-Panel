@@ -3,5 +3,4 @@
   { "id": 2, "name": "Морской герой", "description": "Как аквамен, но не из DC", "element": "water" },
   { "id": 3, "name": "Гарик", "description": "Постоянно подгорает!", "element": "fire" },
   { "id": 4, "name": "Мистер Хлебушек", "description": "Колдует хлебные крошки", "element": "earth" },
-  { "id": 5, "name": "Шептун", "description": "Меня ни что не остановит", "element": "wind" }
 ]

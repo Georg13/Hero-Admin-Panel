@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hero-Admin-Panel/static/css/main.fd63b563.css",
-    "main.js": "/Hero-Admin-Panel/static/js/main.cd9d5f85.js",
+    "main.js": "/Hero-Admin-Panel/static/js/main.5f152343.js",
     "static/media/fire.jpg": "/Hero-Admin-Panel/static/media/fire.a97ec2540bdef6cf39d2.jpg",
     "static/media/wind.jpg": "/Hero-Admin-Panel/static/media/wind.8b9f969ff3d7a4f56de1.jpg",
     "static/media/water.jpg": "/Hero-Admin-Panel/static/media/water.12f517299a0e50ed0394.jpg",
@@ -9,10 +9,10 @@
     "static/media/hero_bg.jpg": "/Hero-Admin-Panel/static/media/hero_bg.0540b794b0424b67d780.jpg",
     "index.html": "/Hero-Admin-Panel/index.html",
     "main.fd63b563.css.map": "/Hero-Admin-Panel/static/css/main.fd63b563.css.map",
-    "main.cd9d5f85.js.map": "/Hero-Admin-Panel/static/js/main.cd9d5f85.js.map"
+    "main.5f152343.js.map": "/Hero-Admin-Panel/static/js/main.5f152343.js.map"
   },
   "entrypoints": [
     "static/css/main.fd63b563.css",
-    "static/js/main.cd9d5f85.js"
+    "static/js/main.5f152343.js"
   ]
 }
