@@ -12,6 +12,7 @@ Hero Admin Panel — панель управления героями с CRUD-о
 - 🔥 По стихиям (огонь, вода, земля, воздух)
 - ⚡ Мгновенное обновление списка
 
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://georg13.github.io/Hero-Admin-Panel)
 
 ## 🛠️ Технологии
 
